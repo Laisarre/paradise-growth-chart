@@ -1,0 +1,92 @@
+[
+    {
+        "biome_name": "Land Field",
+        "device_type_id": 1,
+        "device_type_name": "Pink Land"
+    },
+    {
+        "biome_name": "Land Field",
+        "device_type_id": 2,
+        "device_type_name": "Blue Water"
+    },
+    {
+        "biome_name": "Land Field",
+        "device_type_id": 3,
+        "device_type_name": "Purple Sky"
+    },
+    {
+        "biome_name": "Land Field",
+        "device_type_id": 4,
+        "device_type_name": "Jade Forest"
+    },
+    {
+        "biome_name": "Water Field",
+        "device_type_id": 1,
+        "device_type_name": "Pink Land"
+    },
+    {
+        "biome_name": "Water Field",
+        "device_type_id": 2,
+        "device_type_name": "Blue Water"
+    },
+    {
+        "biome_name": "Water Field",
+        "device_type_id": 3,
+        "device_type_name": "Purple Sky"
+    },
+    {
+        "biome_name": "Water Field",
+        "device_type_id": 4,
+        "device_type_name": "Jade Forest"
+    },
+    {
+        "biome_name": "Sky Field",
+        "device_type_id": 1,
+        "device_type_name": "Pink Land"
+    },
+    {
+        "biome_name": "Sky Field",
+        "device_type_id": 2,
+        "device_type_name": "Blue Water"
+    },
+    {
+        "biome_name": "Sky Field",
+        "device_type_id": 3,
+        "device_type_name": "Purple Sky"
+    },
+    {
+        "biome_name": "Forest Field",
+        "device_type_id": 4,
+        "device_type_name": "Jade Forest"
+    },
+    {
+        "biome_name": "Forest Field",
+        "device_type_id": 5,
+        "device_type_name": "Orange Tropics"
+    },
+    {
+        "biome_name": "Forest Field",
+        "device_type_id": 6,
+        "device_type_name": "White Glacier"
+    },
+    {
+        "biome_name": "Tropical Field",
+        "device_type_id": 5,
+        "device_type_name": "Orange Tropics"
+    },
+    {
+        "biome_name": "Tropical Field",
+        "device_type_id": 6,
+        "device_type_name": "White Glacier"
+    },
+    {
+        "biome_name": "Ice Field",
+        "device_type_id": 5,
+        "device_type_name": "Orange Tropics"
+    },
+    {
+        "biome_name": "Ice Field",
+        "device_type_id": 6,
+        "device_type_name": "White Glacier"
+    }
+]

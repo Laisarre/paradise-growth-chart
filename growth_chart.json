@@ -1,0 +1,473 @@
+{
+  "babymarutchi": {
+    "from": "Babymarutchi",
+    "name": "Bbmarutchi",
+    "rule": "Evolves directly from a Babymarutchi within 1-4 hours by maintaining having mixed field cells (e.g. switching fields every 15 minutes). Cannot be bred with others."
+  },
+  "biomes": [
+    {
+      "field": "Land Field",
+      "color": "#F29FC2",
+      "kid": "Land Kid",
+      "youngTypes": [
+        {
+          "youngName": "Land Roar Young",
+          "name": "Roar",
+          "foodCell": "Meat",
+          "stages": {
+            "special": "Meowtchi",
+            "0-1": "Pochitchi",
+            "2-5": "Gumax",
+            "6+": "Ratchi"
+          }
+        },
+        {
+          "youngName": "Land Toddle Young",
+          "name": "Toddle",
+          "foodCell": "Carrot",
+          "stages": {
+            "special": "Mametchi",
+            "0-1": "Mimitchi",
+            "2-5": "Molmotchi",
+            "6+": "Sheeptchi"
+          }
+        },
+        {
+          "youngName": "Land Lick Young",
+          "name": "Lick",
+          "foodCell": "Worm",
+          "stages": {
+            "special": "Leopatchi",
+            "0-1": "Sebiretchi",
+            "2-5": "Elizardotchi",
+            "6+": "Heavytchi"
+          }
+        },
+        {
+          "youngName": "Land Sprout Young",
+          "name": "Sprout",
+          "foodCell": "Indeterminate",
+          "stages": {
+            "special": "Furawatchi",
+            "0-1": "Potsunentchi",
+            "2-5": "Tustustchi",
+            "6+": "Shigemi-san"
+          }
+        }
+      ]
+    },
+    {
+      "field": "Water Field",
+      "color": "#5D9FD6",
+      "kid": "Water Kid",
+      "youngTypes": [
+        {
+          "youngName": "Water Glide Young",
+          "name": "Glide",
+          "foodCell": "Seafood",
+          "stages": {
+            "special": "Irukatchi",
+            "0-1": "Kametchi",
+            "2-5": "Kujiratchi",
+            "6+": "Uruotchi"
+          }
+        },
+        {
+          "youngName": "Water Leap Young",
+          "name": "Leap",
+          "foodCell": "Seaweed",
+          "stages": {
+            "special": "Axolopatchi",
+            "0-1": "Imoritchi",
+            "2-5": "Kawazutchi",
+            "6+": "Beavertchi"
+          }
+        },
+        {
+          "youngName": "Water Paddle Young",
+          "name": "Paddle",
+          "foodCell": "Shrimp",
+          "stages": {
+            "special": "Tachutchi",
+            "0-1": "Sharktchi",
+            "2-5": "Ankotchi",
+            "6+": "Otototchi"
+          }
+        },
+        {
+          "youngName": "Water Float Young",
+          "name": "Float",
+          "foodCell": "Indeterminate",
+          "stages": {
+            "special": "Kuraratchi",
+            "0-1": "Mendakotchi",
+            "2-5": "Amefuratchi",
+            "6+": "Gusokutchi"
+          }
+        }
+      ]
+    },
+    {
+      "field": "Sky Field",
+      "color": "#9F86BE",
+      "kid": "Sky Kid",
+      "youngTypes": [
+        {
+          "youngName": "Sky Flap Young",
+          "name": "Flap",
+          "foodCell": "Chicken",
+          "stages": {
+            "special": "Horhotchi",
+            "0-1": "Mongatchi",
+            "2-5": "Eagletchi",
+            "6+": "Batchi"
+          }
+        },
+        {
+          "youngName": "Sky Chirp Young",
+          "name": "Chirp",
+          "foodCell": "Corn",
+          "stages": {
+            "special": "Peacotchi",
+            "0-1": "Batatchi",
+            "2-5": "Kuchipatchi",
+            "6+": "Kiwitchi"
+          }
+        },
+        {
+          "youngName": "Sky Bumble Young",
+          "name": "Flutter",
+          "foodCell": "Syrup",
+          "stages": {
+            "special": "Papillotchi",
+            "0-1": "Kabutotchi",
+            "2-5": "Tentotchi",
+            "6+": "Hatchitchi"
+          }
+        },
+        {
+          "youngName": "Sky Rocky Young",
+          "name": "Mineral",
+          "foodCell": "Indeterminate",
+          "stages": {
+            "special": "Gemtchi",
+            "0-1": "Oretatchi",
+            "2-5": "Ishikorotchi",
+            "6+": "Magmatchi"
+          }
+        }
+      ]
+    },
+    {
+      "field": "Forest Field",
+      "color": "#50CDCE",
+      "kid": "Forest Kid",
+      "youngTypes": [
+        {
+          "youngName": "Forest Roar Young",
+          "name": "Roar",
+          "foodCell": "Peking Meat",
+          "stages": {
+            "special": "Forest Horhotchi",
+            "0-1": "Konkotchi",
+            "2-5": "Tigaotchi",
+            "6+": "Tanoontchi"
+          }
+        },
+        {
+          "youngName": "Forest Toddle Young",
+          "name": "Toddle",
+          "foodCell": "Bamboo Grass",
+          "stages": {
+            "special": "Lessapantchi",
+            "0-1": "Kanokotchi",
+            "2-5": "Suigyutchi",
+            "6+": "Panbootchi"
+          }
+        },
+        {
+          "youngName": "Forest Chirp Young",
+          "name": "Chirp",
+          "foodCell": "Pomegranate",
+          "stages": {
+            "special": "Kachitchi",
+            "0-1": "Tokipatchi",
+            "2-5": "Kuchipatchi",
+            "6+": "Sparrotchi"
+          }
+        },
+        {
+          "youngName": "Forest Sprout Young",
+          "name": "Sprout",
+          "foodCell": "Indeterminate",
+          "stages": {
+            "special": "Shiitaketchi",
+            "0-1": "Peatchi",
+            "2-5": "Nappatchi",
+            "6+": "Rushraditchi"
+          }
+        }
+      ]
+    },
+    {
+      "field": "Tropical Field",
+      "color": "#EC5787",
+      "kid": "Tropical Kid",
+      "youngTypes": [
+        {
+          "youngName": "Tropical Roar Young",
+          "name": "Roar",
+          "foodCell": "Tropical Meat",
+          "stages": {
+            "special": "Tropical Meowtchi",
+            "0-1": "Madillotchi",
+            "2-5": "Tarantytchi",
+            "6+": "Crocotchi"
+          }
+        },
+        {
+          "youngName": "Tropical Toddle Young",
+          "name": "Toddle",
+          "foodCell": "Tropical Fruit",
+          "stages": {
+            "special": "Tropical Mametchi",
+            "0-1": "Parorotchi",
+            "2-5": "Tenatchi",
+            "6+": "Namakemotchi"
+          }
+        },
+        {
+          "youngName": "Tropical Lick Young",
+          "name": "Lick",
+          "foodCell": "Tropical Critter",
+          "stages": {
+            "special": "Kuikuitchi",
+            "0-1": "Poizutchi",
+            "2-5": "Chameleotchi",
+            "6+": "Iguanatchi"
+          }
+        },
+        {
+          "youngName": "Tropical Sprout Young",
+          "name": "Sprout",
+          "foodCell": "Indeterminate",
+          "stages": {
+            "special": "Yashikitchi",
+            "0-1": "Tropical Potsunentchi",
+            "2-5": "Ananatchi",
+            "6+": "Avovotchi"
+          }
+        }
+      ]
+    },
+    {
+      "field": "Ice Field",
+      "color": "#BEC7E1",
+      "kid": "Frozen Kid",
+      "youngTypes": [
+        {
+          "youngName": "Ice Roar Young",
+          "name": "Roar",
+          "foodCell": "Frozen Meat",
+          "stages": {
+            "special": "Okojotchi",
+            "0-1": "Wolftchi",
+            "2-5": "Polakumatchi",
+            "6+": "Azaratchi"
+          }
+        },
+        {
+          "youngName": "Ice Glide Young",
+          "name": "Glide",
+          "foodCell": "Frozen Seafood",
+          "stages": {
+            "special": "Icy Irukatchi",
+            "0-1": "Ginjirotchi",
+            "2-5": "Rakkotchi",
+            "6+": "Hoppentchi"
+          }
+        },
+        {
+          "youngName": "Ice Toddle Young",
+          "name": "Toddle",
+          "foodCell": "Frozen Berry",
+          "stages": {
+            "special": "Lemmingtchi",
+            "0-1": "Moosetchi",
+            "2-5": "Raichotchi",
+            "6+": "Yukiusatchi"
+          }
+        },
+        {
+          "youngName": "Ice Float Young",
+          "name": "Float",
+          "foodCell": "Indeterminate",
+          "stages": {
+            "special": "Nerinetchi",
+            "0-1": "Dangouotchi",
+            "2-5": "Yaytytchi",
+            "6+": "Yukiraratchi"
+          }
+        }
+      ]
+    }
+  ],
+  "hybrids": [
+    {
+      "name": "Chodracotchi",
+      "shell": "Pink Land",
+      "field": "Land Field",
+      "rule": "Connect a Pink Land shell with 2 other shells during the Young Stage. Cannot evolve from Sprout Young."
+    },
+    {
+      "name": "Mermarintchi",
+      "shell": "Blue Water",
+      "field": "Water Field",
+      "rule": "Connect a Blue Water shell with 2 other shells during the Young Stage. Cannot evolve from Float Young."
+    },
+    {
+      "name": "Yayacorntchi",
+      "shell": "Purple Sky",
+      "field": "Sky Field",
+      "rule": "Connect a Purple Sky shell with 2 other shells during the Young Stage. Cannot evolve from Rocky Young."
+    },
+    {
+      "name": "Tatsutchi",
+      "shell": "Jade Forest",
+      "field": "Forest Field",
+      "rule": "Connect a Jade Forest shell with 2 other shells during the Young Stage. Cannot evolve from Sprout Young."
+    },
+    {
+      "name": "Manapatchi",
+      "shell": "Orange Tropics",
+      "field": "Tropical Field",
+      "rule": "Connect an Orange Tropics shell with 2 other shells during the Young Stage. Cannot evolve from Sprout Young."
+    },
+    {
+      "name": "Hobohorntchi",
+      "shell": "White Glacier",
+      "field": "Ice Field",
+      "rule": "Connect a White Glacier shell with 2 other shells during the Young Stage. Cannot evolve from Float Young."
+    }
+  ],
+  "fieldCells": {
+    "Land": "Stay in Land Field for 15 minutes during baby stage",
+    "Water": "Stay in Water Field for 15 minutes during baby stage",
+    "Sky": "Stay in Sky Field for 15 minutes during baby stage",
+    "Forest": "Stay in Forest Field for 15 minutes during baby stage (available on Jade Forest)",
+    "Tropical": "Stay in Tropical Field for 15 minutes during baby stage (available on Orange Tropics and White Glacier)",
+    "Ice": "Stay in Ice Field for 15 minutes during baby stage (available on Orange Tropics and White Glacier)"
+  },
+  "foodCells": {
+    "Meat": [
+      "Small Meat +1 (Volcano)",
+      "Big Meat +2 (Volcano)",
+      "Steak +4 (Shop or cook)"
+    ],
+    "Carrot": [
+      "Carrot +1 (Spring)",
+      "Apple +2 (Spring)",
+      "Apple Pie +4 (Shop or cook)",
+      "Shredded Carrot +4 (Shop or cook)"
+    ],
+    "Worm": [
+      "Meal Worms +1 (Any hunt)",
+      "Meal Bugs +2 (Any hunt)",
+      "Bug Biscuit +4 (Shop or cook)"
+    ],
+    "Seafood": [
+      "Shellfish +1 (Volcano)",
+      "Seafood +2 (Volcano)",
+      "Fried Fish +4 (Shop or cook)",
+      "Grilled Fish +4 (Shop or cook)"
+    ],
+    "Seaweed": [
+      "Red Seaweed +1 (Spring)",
+      "Green Seaweed +2 (Spring)",
+      "Seaweed Salad +4 (Shop or cook)"
+    ],
+    "Shrimp": [
+      "Meal Plankton +1 (Any hunt)",
+      "Meal Shrimp +2 (Any hunt)",
+      "Plankton Dumpling +4 (Shop or cook)"
+    ],
+    "Chicken": [
+      "Piece of Chicken +1 (Volcano)",
+      "Whole Chicken +2 (Volcano)",
+      "Chicken Steak +4 (Shop or cook)"
+    ],
+    "Corn": [
+      "Corn +1 (Spring)",
+      "Cherries +2 (Spring)",
+      "Cherry Pie +4 (Shop or cook)",
+      "Corn Flakes +4 (Shop or cook)"
+    ],
+    "Syrup": [
+      "Honey Syrup +1 (Any hunt)",
+      "Flower Syrup +2 (Any hunt)",
+      "Flower Drops +4 (Shop or cook)"
+    ],
+    "Peking Meat": [
+      "Peking Meat +1 (Volcano)",
+      "Chashu Pork +2 (Volcano)",
+      "Warm Buns +4 (Shop or cook)"
+    ],
+    "Bamboo Grass": [
+      "Sesame Leaves +1 (Spring)",
+      "Bamboo Grass +2 (Spring)",
+      "Bamboo Leaf Rice Cake +4 (Shop or cook)",
+      "Sesame Pancake +4 (Shop or cook)"
+    ],
+    "Pomegranate": [
+      "Pomegranate +1 (Any hunt)",
+      "Persimmon +2 (Any hunt)",
+      "Che Thai +4 (Shop or cook)"
+    ],
+    "Tropical Meat": [
+      "Tropical Patty +1 (Volcano)",
+      "Tropical Steak +2 (Volcano)",
+      "Hawaiian Burger +4 (Shop or cook)"
+    ],
+    "Tropical Fruit": [
+      "Banana +1 (Spring)",
+      "Tropical Fruits +2 (Spring)",
+      "Fruit Jelly +4 (Shop or cook)",
+      "Banana on a Stick +4 (Shop or cook)"
+    ],
+    "Tropical Critter": [
+      "Meal Critters +1 (Any hunt)",
+      "Butterfly Snacks +2 (Any hunt)",
+      "Butterfly Salad +4 (Shop or cook)"
+    ],
+    "Frozen Meat": [
+      "Canned Meat +1 (Volcano)",
+      "Frozen Meat +2 (Volcano)",
+      "Beef Stroganoff +4 (Shop or cook)"
+    ],
+    "Frozen Seafood": [
+      "Salmon Roe +1 (Spring)",
+      "Northern Seafood +2 (Spring)",
+      "Blinis +4 (Shop or cook)"
+    ],
+    "Frozen Berry": [
+      "Beet +1 (Any hunt)",
+      "Red Berries +1 (Any hunt)",
+      "Borscht +4 (Shop or cook)",
+      "Hot Tea with Jam +4 (Shop or cook)"
+    ],
+    "Indeterminate": [
+      "Default pellets only, or equal amounts of different food types"
+    ]
+  },
+  "careCells": {
+    "Hunger": "Max the Hunger meter",
+    "Happy": "Max the Happiness meter",
+    "Mistake": "Get a care mistake"
+  },
+  "notes": [
+    "Feed the specified food to get points towards the food cell. You need 5 points to earn a food cell.",
+    "The food type with the highest count in the cells at the time of evolution will determine young growth.",
+    "Feeding only the default Pellets, or having equal amounts of different food types present in the cell, will result in a diet that is indeterminate."
+  ],
+  "source": "Tamagotchi Paradise Growth Chart, by Neo_Mametchi (neomametchi-logs.freeforums.net), sprites by Marcelmono, Sg_the_bee, Konketchi, Caralynx"
+}

@@ -1,0 +1,478 @@
+[
+    {
+        "id": 1,
+        "name": "Meowtchi",
+        "field": "Land",
+        "young_type": "Roar",
+        "image_path": "Meowtchi"
+    },
+    {
+        "id": 2,
+        "name": "Pochitchi",
+        "field": "Land",
+        "young_type": "Roar",
+        "image_path": "Pochitchi"
+    },
+    {
+        "id": 3,
+        "name": "Gumax",
+        "field": "Land",
+        "young_type": "Roar",
+        "image_path": "Gumax"
+    },
+    {
+        "id": 4,
+        "name": "Ratchi",
+        "field": "Land",
+        "young_type": "Roar",
+        "image_path": "Ratchi"
+    },
+    {
+        "id": 5,
+        "name": "Mametchi",
+        "field": "Land",
+        "young_type": "Toddle",
+        "image_path": "Mametchi"
+    },
+    {
+        "id": 6,
+        "name": "Mimitchi",
+        "field": "Land",
+        "young_type": "Toddle",
+        "image_path": "Mimitchi"
+    },
+    {
+        "id": 7,
+        "name": "Molmotchi",
+        "field": "Land",
+        "young_type": "Toddle",
+        "image_path": "Molmotchi"
+    },
+    {
+        "id": 8,
+        "name": "Sheeptchi",
+        "field": "Land",
+        "young_type": "Toddle",
+        "image_path": "Sheeptchi"
+    },
+    {
+        "id": 9,
+        "name": "Leopatchi",
+        "field": "Land",
+        "young_type": "Lick",
+        "image_path": "Leopatchi"
+    },
+    {
+        "id": 10,
+        "name": "Sebiretchi",
+        "field": "Land",
+        "young_type": "Lick",
+        "image_path": "Sebiretchi"
+    },
+    {
+        "id": 11,
+        "name": "Elizardotchi",
+        "field": "Land",
+        "young_type": "Lick",
+        "image_path": "Elizardotchi"
+    },
+    {
+        "id": 12,
+        "name": "Heavytchi",
+        "field": "Land",
+        "young_type": "Lick",
+        "image_path": "Heavytchi"
+    },
+    {
+        "id": 13,
+        "name": "Furawatchi",
+        "field": "Land",
+        "young_type": "Sprout",
+        "image_path": "Furawatchi"
+    },
+    {
+        "id": 14,
+        "name": "Potsunentchi",
+        "field": "Land",
+        "young_type": "Sprout",
+        "image_path": "Potsunentchi"
+    },
+    {
+        "id": 15,
+        "name": "Tustustchi",
+        "field": "Land",
+        "young_type": "Sprout",
+        "image_path": "Tustustchi"
+    },
+    {
+        "id": 16,
+        "name": "Shigemi-san",
+        "field": "Land",
+        "young_type": "Sprout",
+        "image_path": "Shigemi-san"
+    },
+    {
+        "id": 17,
+        "name": "Irukatchi",
+        "field": "Water",
+        "young_type": "Glide",
+        "image_path": "Irukatchi"
+    },
+    {
+        "id": 18,
+        "name": "Kametchi",
+        "field": "Water",
+        "young_type": "Glide",
+        "image_path": "Kametchi"
+    },
+    {
+        "id": 19,
+        "name": "Kujiratchi",
+        "field": "Water",
+        "young_type": "Glide",
+        "image_path": "Kujiratchi"
+    },
+    {
+        "id": 20,
+        "name": "Uruotchi",
+        "field": "Water",
+        "young_type": "Glide",
+        "image_path": "Uruotchi"
+    },
+    {
+        "id": 21,
+        "name": "Axolopatchi",
+        "field": "Water",
+        "young_type": "Leap",
+        "image_path": "Axolopatchi"
+    },
+    {
+        "id": 22,
+        "name": "Imoritchi",
+        "field": "Water",
+        "young_type": "Leap",
+        "image_path": "Imoritchi"
+    },
+    {
+        "id": 23,
+        "name": "Kawazutchi",
+        "field": "Water",
+        "young_type": "Leap",
+        "image_path": "Kawazutchi"
+    },
+    {
+        "id": 24,
+        "name": "Beavertchi",
+        "field": "Water",
+        "young_type": "Leap",
+        "image_path": "Beavertchi"
+    },
+    {
+        "id": 25,
+        "name": "Tachutchi",
+        "field": "Water",
+        "young_type": "Paddle",
+        "image_path": "Tachutchi"
+    },
+    {
+        "id": 26,
+        "name": "Sharktchi",
+        "field": "Water",
+        "young_type": "Paddle",
+        "image_path": "Sharktchi"
+    },
+    {
+        "id": 27,
+        "name": "Ankotchi",
+        "field": "Water",
+        "young_type": "Paddle",
+        "image_path": "Ankotchi"
+    },
+    {
+        "id": 28,
+        "name": "Otototchi",
+        "field": "Water",
+        "young_type": "Paddle",
+        "image_path": "Otototchi"
+    },
+    {
+        "id": 29,
+        "name": "Kuraratchi",
+        "field": "Water",
+        "young_type": "Float",
+        "image_path": "Kuraratchi"
+    },
+    {
+        "id": 30,
+        "name": "Mendakotchi",
+        "field": "Water",
+        "young_type": "Float",
+        "image_path": "Mendakotchi"
+    },
+    {
+        "id": 31,
+        "name": "Amefuratchi",
+        "field": "Water",
+        "young_type": "Float",
+        "image_path": "Amefuratchi"
+    },
+    {
+        "id": 32,
+        "name": "Gusokutchi",
+        "field": "Water",
+        "young_type": "Float",
+        "image_path": "Gusokutchi"
+    },
+    {
+        "id": 33,
+        "name": "Horhotchi",
+        "field": "Sky",
+        "young_type": "Flap",
+        "image_path": "Horhotchi"
+    },
+    {
+        "id": 34,
+        "name": "Mongatchi",
+        "field": "Sky",
+        "young_type": "Flap",
+        "image_path": "Mongatchi"
+    },
+    {
+        "id": 35,
+        "name": "Eagletchi",
+        "field": "Sky",
+        "young_type": "Flap",
+        "image_path": "Eagletchi"
+    },
+    {
+        "id": 36,
+        "name": "Batchi",
+        "field": "Sky",
+        "young_type": "Flap",
+        "image_path": "Batchi"
+    },
+    {
+        "id": 37,
+        "name": "Peacotchi",
+        "field": "Sky",
+        "young_type": "Chirp",
+        "image_path": "Peacotchi"
+    },
+    {
+        "id": 38,
+        "name": "Batatchi",
+        "field": "Sky",
+        "young_type": "Chirp",
+        "image_path": "Batatchi"
+    },
+    {
+        "id": 39,
+        "name": "Kuchipatchi",
+        "field": "Sky",
+        "young_type": "Chirp",
+        "image_path": "Kuchipatchi"
+    },
+    {
+        "id": 40,
+        "name": "Kiwitchi",
+        "field": "Sky",
+        "young_type": "Chirp",
+        "image_path": "Kiwitchi"
+    },
+    {
+        "id": 41,
+        "name": "Papillotchi",
+        "field": "Sky",
+        "young_type": "Flutter",
+        "image_path": "Papillotchi"
+    },
+    {
+        "id": 42,
+        "name": "Kabutotchi",
+        "field": "Sky",
+        "young_type": "Flutter",
+        "image_path": "Kabutotchi"
+    },
+    {
+        "id": 43,
+        "name": "Tentotchi",
+        "field": "Sky",
+        "young_type": "Flutter",
+        "image_path": "Tentotchi"
+    },
+    {
+        "id": 44,
+        "name": "Hatchitchi",
+        "field": "Sky",
+        "young_type": "Flutter",
+        "image_path": "Hatchitchi"
+    },
+    {
+        "id": 45,
+        "name": "Gemtchi",
+        "field": "Sky",
+        "young_type": "Mineral",
+        "image_path": "Gemtchi"
+    },
+    {
+        "id": 46,
+        "name": "Oretatchi",
+        "field": "Sky",
+        "young_type": "Mineral",
+        "image_path": "Oretatchi"
+    },
+    {
+        "id": 47,
+        "name": "Ishikorotchi",
+        "field": "Sky",
+        "young_type": "Mineral",
+        "image_path": "Ishikorotchi"
+    },
+    {
+        "id": 48,
+        "name": "Magmatchi",
+        "field": "Sky",
+        "young_type": "Mineral",
+        "image_path": "Magmatchi"
+    },
+    {
+        "id": 49,
+        "name": "Bbmarutchi",
+        "field": "Any",
+        "young_type": "Any",
+        "image_path": "Bbmarutchi"
+    },
+    {
+        "id": 50,
+        "name": "Chodracotchi",
+        "field": "Land",
+        "young_type": "Not Sprout",
+        "image_path": "Chodracotchi"
+    },
+    {
+        "id": 51,
+        "name": "Babymarutchi",
+        "field": "Any",
+        "young_type": "None",
+        "image_path": "Babymarutchi"
+    },
+    {
+        "id": 52,
+        "name": "Land Kid",
+        "field": "Land",
+        "young_type": "None",
+        "image_path": "Land_Kid"
+    },
+    {
+        "id": 53,
+        "name": "Water Kid",
+        "field": "Water",
+        "young_type": "None",
+        "image_path": "Water_Kid"
+    },
+    {
+        "id": 54,
+        "name": "Sky Kid",
+        "field": "Sky",
+        "young_type": "None",
+        "image_path": "Sky_Kid"
+    },
+    {
+        "id": 55,
+        "name": "Land Roar Young",
+        "field": "Land",
+        "young_type": "Roar",
+        "image_path": "Land_Roar_Young"
+    },
+    {
+        "id": 56,
+        "name": "Land Toddle Young",
+        "field": "Land",
+        "young_type": "Toddle",
+        "image_path": "Land_Toddle_Young"
+    },
+    {
+        "id": 57,
+        "name": "Land Lick Young",
+        "field": "Land",
+        "young_type": "Lick",
+        "image_path": "Land_Lick_Young"
+    },
+    {
+        "id": 58,
+        "name": "Land Sprout Young",
+        "field": "Land",
+        "young_type": "Sprout",
+        "image_path": "Land_Sprout_Young"
+    },
+    {
+        "id": 59,
+        "name": "Water Glide Young",
+        "field": "Water",
+        "young_type": "Glide",
+        "image_path": "Water_Glide_Young"
+    },
+    {
+        "id": 60,
+        "name": "Water Leap Young",
+        "field": "Water",
+        "young_type": "Leap",
+        "image_path": "Water_Leap_Young"
+    },
+    {
+        "id": 61,
+        "name": "Water Paddle Young",
+        "field": "Water",
+        "young_type": "Paddle",
+        "image_path": "Water_Paddle_Young"
+    },
+    {
+        "id": 62,
+        "name": "Water Float Young",
+        "field": "Water",
+        "young_type": "Float",
+        "image_path": "Water_Float_Young"
+    },
+    {
+        "id": 63,
+        "name": "Sky Flap Young",
+        "field": "Sky",
+        "young_type": "Flap",
+        "image_path": "Sky_Flap_Young"
+    },
+    {
+        "id": 64,
+        "name": "Sky Chirp Young",
+        "field": "Sky",
+        "young_type": "Chirp",
+        "image_path": "Sky_Chirp_Young"
+    },
+    {
+        "id": 65,
+        "name": "Sky Bumble Young",
+        "field": "Sky",
+        "young_type": "Flutter",
+        "image_path": "Sky_Bumble_Young"
+    },
+    {
+        "id": 66,
+        "name": "Sky Rocky Young",
+        "field": "Sky",
+        "young_type": "Mineral",
+        "image_path": "Sky_Rocky_Young"
+    },
+    {
+        "id": 67,
+        "name": "Shyontchi",
+        "field": "Lab Tama",
+        "young_type": "None",
+        "image_path": "Shyontchi"
+    },
+    {
+        "id": 68,
+        "name": "Meertchi",
+        "field": "Lab Tama",
+        "young_type": "None",
+        "image_path": "Meertchi"
+    }
+]

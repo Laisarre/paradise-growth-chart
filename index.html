@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamagotchi Paradise — Growth Chart</title>
+    <link rel="icon" href="img/icons/favicon.png" type="image/png">
+    <link rel="icon" href="img/icons/favicon.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="img/icons/favicon.png" type="image/png" sizes="16x16">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --tama-mint-dark: #9fcfbe;
+            --tama-mint-light: #d8f1e7;
+            --tama-panel-header: #cdeadc;
+            --tama-text-dark: #1b1b1b;
+            --tama-text-select: #5a8878;
+            --tama-pink: #ffb8d0;
+            --font-main: 'VT323', monospace;
+            --font-pixel: 'DotGothic16', sans-serif;
+        }
+
+        * { box-sizing: border-box; }
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            min-height: 100%;
+            font-family: var(--font-main);
+            font-size: 18px;
+            color: var(--tama-text-dark);
+            background: var(--tama-mint-light);
+        }
+
+        .page-header {
+            background: var(--tama-panel-header);
+            border-bottom: 4px solid var(--tama-mint-dark);
+            padding: 18px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .page-header h1 {
+            font-family: var(--font-pixel);
+            font-size: 22px;
+            font-weight: bold;
+            color: var(--tama-text-dark);
+            margin: 0;
+        }
+
+        .header-controls {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        .font-controls {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .font-step {
+            font-family: var(--font-pixel);
+            font-size: 13px;
+            width: 30px;
+            height: 30px;
+            border-radius: 10px;
+            border: 2px solid var(--tama-mint-dark);
+            background: var(--tama-mint-light);
+            color: var(--tama-text-dark);
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .font-step:hover { color: var(--tama-text-select); }
+
+        .font-size-label {
+            font-family: var(--font-pixel);
+            font-size: 12px;
+            color: var(--tama-text-dark);
+            min-width: 34px;
+            text-align: center;
+        }
+
+        .pixel-font-toggle {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            font-size: 12px;
+            color: var(--tama-text-dark);
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .pixel-font-toggle input { cursor: pointer; }
+
+        .icon-mode-toggle {
+            display: flex;
+            gap: 8px;
+        }
+
+        .icon-mode-option {
+            font-family: var(--font-pixel);
+            font-size: 13px;
+            letter-spacing: 0.5px;
+            padding: 6px 16px;
+            border-radius: 12px;
+            border: 2px solid var(--tama-mint-dark);
+            background: var(--tama-mint-light);
+            color: var(--tama-text-dark);
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.15s ease;
+        }
+
+        .icon-mode-option:hover {
+            color: var(--tama-text-select);
+        }
+
+        .icon-mode-option.active {
+            background: var(--tama-mint-dark);
+            color: #fff;
+        }
+
+        .page-content {
+            max-width: 1400px;
+            margin: 24px auto;
+            padding: 0 24px 40px;
+        }
+
+        #chartContent {
+            background: #fff;
+            border: 4px solid var(--tama-mint-dark);
+            border-radius: 12px;
+            padding: 24px;
+            color: black;
+            font-family: var(--font-main);
+        }
+
+        #chartContent img {
+            max-width: none;
+        }
+
+        #chartContent input[type="text"] {
+            font-family: var(--font-main);
+        }
+
+        #chartContent.unpixelized {
+            --font-main: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            font-size: 1.15em;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-header">
+        <h1>Tamagotchi Paradise — Growth Chart</h1>
+        <div class="header-controls">
+            <div class="font-controls" title="Chart text size">
+                <button class="font-step" id="fontStepDown" type="button" aria-label="Decrease text size">A−</button>
+                <span class="font-size-label" id="fontSizeLabel">100%</span>
+                <button class="font-step" id="fontStepUp" type="button" aria-label="Increase text size">A+</button>
+                <label class="pixel-font-toggle">
+                    <input type="checkbox" id="pixelFontToggle">
+                    <span>Unpixelize</span>
+                </label>
+            </div>
+            <div class="icon-mode-toggle" title="Какие картинки персонажей показывать">
+                <div class="icon-mode-option" data-mode="sprite">SPRITE</div>
+                <div class="icon-mode-option" data-mode="artwork">ART</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="page-content">
+        <div id="chartContent">
+            <p style="color: #888;">Загрузка...</p>
+        </div>
+    </div>
+
+    <script src="growth-chart.js?v=36"></script>
+</body>
+</html>
