@@ -465,9 +465,16 @@
     "Mistake": "Get a care mistake"
   },
   "notes": [
+    "Food cells:",
     "Feed the specified food to get points towards the food cell. You need 5 points to earn a food cell.",
     "The food type with the highest count in the cells at the time of evolution will determine young growth.",
-    "Feeding only the default Pellets, or having equal amounts of different food types present in the cell, will result in a diet that is indeterminate."
+    "Feeding only the default Pellets, or having equal amounts of different food types present in the cell, will result in a diet that is indeterminate.",
+    "",
+    "Life stages:",
+    "Baby: 1-4 hours",
+    "Kid: 24-28 hours",
+    "Young: 24 hours",
+    "Adult: Indefinite until death with neglect, breeding, or selecting a new egg"
   ],
-  "source": "Tamagotchi Paradise Growth Chart, by Neo_Mametchi (neomametchi-logs.freeforums.net), sprites by Marcelmono, Sg_the_bee, Konketchi, Caralynx"
+  "source": "Based on Tamagotchi Paradise Growth Chart by Neo_Mametchi (neomametchi-logs.freeforums.net)"
 }

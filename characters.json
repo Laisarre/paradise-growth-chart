@@ -474,5 +474,474 @@
         "field": "Lab Tama",
         "young_type": "None",
         "image_path": "Meertchi"
+    },
+    {
+        "id": 69,
+        "name": "Forest Kid",
+        "field": "Forest",
+        "young_type": "None",
+        "image_path": "Forest_Kid"
+    },
+    {
+        "id": 70,
+        "name": "Forest Roar Young",
+        "field": "Forest",
+        "young_type": "Roar",
+        "image_path": "Forest_Roar_Young"
+    },
+    {
+        "id": 71,
+        "name": "Forest Horhotchi",
+        "field": "Forest",
+        "young_type": "Roar",
+        "image_path": "Forest_Horhotchi"
+    },
+    {
+        "id": 72,
+        "name": "Konkotchi",
+        "field": "Forest",
+        "young_type": "Roar",
+        "image_path": "Konkotchi"
+    },
+    {
+        "id": 73,
+        "name": "Tigaotchi",
+        "field": "Forest",
+        "young_type": "Roar",
+        "image_path": "Tigaotchi"
+    },
+    {
+        "id": 74,
+        "name": "Tanoontchi",
+        "field": "Forest",
+        "young_type": "Roar",
+        "image_path": "Tanoontchi"
+    },
+    {
+        "id": 75,
+        "name": "Forest Toddle Young",
+        "field": "Forest",
+        "young_type": "Toddle",
+        "image_path": "Forest_Toddle_Young"
+    },
+    {
+        "id": 76,
+        "name": "Lessapantchi",
+        "field": "Forest",
+        "young_type": "Toddle",
+        "image_path": "Lessapantchi"
+    },
+    {
+        "id": 77,
+        "name": "Kanokotchi",
+        "field": "Forest",
+        "young_type": "Toddle",
+        "image_path": "Kanokotchi"
+    },
+    {
+        "id": 78,
+        "name": "Suigyutchi",
+        "field": "Forest",
+        "young_type": "Toddle",
+        "image_path": "Suigyutchi"
+    },
+    {
+        "id": 79,
+        "name": "Panbootchi",
+        "field": "Forest",
+        "young_type": "Toddle",
+        "image_path": "Panbootchi"
+    },
+    {
+        "id": 80,
+        "name": "Forest Chirp Young",
+        "field": "Forest",
+        "young_type": "Chirp",
+        "image_path": "Forest_Chirp_Young"
+    },
+    {
+        "id": 81,
+        "name": "Kachitchi",
+        "field": "Forest",
+        "young_type": "Chirp",
+        "image_path": "Kachitchi"
+    },
+    {
+        "id": 82,
+        "name": "Tokipatchi",
+        "field": "Forest",
+        "young_type": "Chirp",
+        "image_path": "Tokipatchi"
+    },
+    {
+        "id": 83,
+        "name": "Sparrotchi",
+        "field": "Forest",
+        "young_type": "Chirp",
+        "image_path": "Sparrotchi"
+    },
+    {
+        "id": 84,
+        "name": "Forest Sprout Young",
+        "field": "Forest",
+        "young_type": "Sprout",
+        "image_path": "Forest_Sprout_Young"
+    },
+    {
+        "id": 85,
+        "name": "Shiitaketchi",
+        "field": "Forest",
+        "young_type": "Sprout",
+        "image_path": "Shiitaketchi"
+    },
+    {
+        "id": 86,
+        "name": "Peatchi",
+        "field": "Forest",
+        "young_type": "Sprout",
+        "image_path": "Peatchi"
+    },
+    {
+        "id": 87,
+        "name": "Nappatchi",
+        "field": "Forest",
+        "young_type": "Sprout",
+        "image_path": "Nappatchi"
+    },
+    {
+        "id": 88,
+        "name": "Rushraditchi",
+        "field": "Forest",
+        "young_type": "Sprout",
+        "image_path": "Rushraditchi"
+    },
+    {
+        "id": 89,
+        "name": "Tropical Kid",
+        "field": "Tropical",
+        "young_type": "None",
+        "image_path": "Tropical_Kid"
+    },
+    {
+        "id": 90,
+        "name": "Tropical Roar Young",
+        "field": "Tropical",
+        "young_type": "Roar",
+        "image_path": "Tropical_Roar_Young"
+    },
+    {
+        "id": 91,
+        "name": "Tropical Meowtchi",
+        "field": "Tropical",
+        "young_type": "Roar",
+        "image_path": "Tropical_Meowtchi"
+    },
+    {
+        "id": 92,
+        "name": "Madillotchi",
+        "field": "Tropical",
+        "young_type": "Roar",
+        "image_path": "Madillotchi"
+    },
+    {
+        "id": 93,
+        "name": "Tarantytchi",
+        "field": "Tropical",
+        "young_type": "Roar",
+        "image_path": "Tarantytchi"
+    },
+    {
+        "id": 94,
+        "name": "Crocotchi",
+        "field": "Tropical",
+        "young_type": "Roar",
+        "image_path": "Crocotchi"
+    },
+    {
+        "id": 95,
+        "name": "Tropical Toddle Young",
+        "field": "Tropical",
+        "young_type": "Toddle",
+        "image_path": "Tropical_Toddle_Young"
+    },
+    {
+        "id": 96,
+        "name": "Tropical Mametchi",
+        "field": "Tropical",
+        "young_type": "Toddle",
+        "image_path": "Tropical_Mametchi"
+    },
+    {
+        "id": 97,
+        "name": "Parorotchi",
+        "field": "Tropical",
+        "young_type": "Toddle",
+        "image_path": "Parorotchi"
+    },
+    {
+        "id": 98,
+        "name": "Tenatchi",
+        "field": "Tropical",
+        "young_type": "Toddle",
+        "image_path": "Tenatchi"
+    },
+    {
+        "id": 99,
+        "name": "Namakemotchi",
+        "field": "Tropical",
+        "young_type": "Toddle",
+        "image_path": "Namakemotchi"
+    },
+    {
+        "id": 100,
+        "name": "Tropical Lick Young",
+        "field": "Tropical",
+        "young_type": "Lick",
+        "image_path": "Tropical_Lick_Young"
+    },
+    {
+        "id": 101,
+        "name": "Kuikuitchi",
+        "field": "Tropical",
+        "young_type": "Lick",
+        "image_path": "Kuikuitchi"
+    },
+    {
+        "id": 102,
+        "name": "Poizutchi",
+        "field": "Tropical",
+        "young_type": "Lick",
+        "image_path": "Poizutchi"
+    },
+    {
+        "id": 103,
+        "name": "Chameleotchi",
+        "field": "Tropical",
+        "young_type": "Lick",
+        "image_path": "Chameleotchi"
+    },
+    {
+        "id": 104,
+        "name": "Iguanatchi",
+        "field": "Tropical",
+        "young_type": "Lick",
+        "image_path": "Iguanatchi"
+    },
+    {
+        "id": 105,
+        "name": "Tropical Sprout Young",
+        "field": "Tropical",
+        "young_type": "Sprout",
+        "image_path": "Tropical_Sprout_Young"
+    },
+    {
+        "id": 106,
+        "name": "Yashikitchi",
+        "field": "Tropical",
+        "young_type": "Sprout",
+        "image_path": "Yashikitchi"
+    },
+    {
+        "id": 107,
+        "name": "Tropical Potsunentchi",
+        "field": "Tropical",
+        "young_type": "Sprout",
+        "image_path": "Tropical_Potsunentchi"
+    },
+    {
+        "id": 108,
+        "name": "Ananatchi",
+        "field": "Tropical",
+        "young_type": "Sprout",
+        "image_path": "Ananatchi"
+    },
+    {
+        "id": 109,
+        "name": "Avovotchi",
+        "field": "Tropical",
+        "young_type": "Sprout",
+        "image_path": "Avovotchi"
+    },
+    {
+        "id": 110,
+        "name": "Frozen Kid",
+        "field": "Ice",
+        "young_type": "None",
+        "image_path": "Frozen_Kid"
+    },
+    {
+        "id": 111,
+        "name": "Ice Roar Young",
+        "field": "Ice",
+        "young_type": "Roar",
+        "image_path": "Ice_Roar_Young"
+    },
+    {
+        "id": 112,
+        "name": "Okojotchi",
+        "field": "Ice",
+        "young_type": "Roar",
+        "image_path": "Okojotchi"
+    },
+    {
+        "id": 113,
+        "name": "Wolftchi",
+        "field": "Ice",
+        "young_type": "Roar",
+        "image_path": "Wolftchi"
+    },
+    {
+        "id": 114,
+        "name": "Polakumatchi",
+        "field": "Ice",
+        "young_type": "Roar",
+        "image_path": "Polakumatchi"
+    },
+    {
+        "id": 115,
+        "name": "Azaratchi",
+        "field": "Ice",
+        "young_type": "Roar",
+        "image_path": "Azaratchi"
+    },
+    {
+        "id": 116,
+        "name": "Ice Glide Young",
+        "field": "Ice",
+        "young_type": "Glide",
+        "image_path": "Ice_Glide_Young"
+    },
+    {
+        "id": 117,
+        "name": "Icy Irukatchi",
+        "field": "Ice",
+        "young_type": "Glide",
+        "image_path": "Icy_Irukatchi"
+    },
+    {
+        "id": 118,
+        "name": "Ginjirotchi",
+        "field": "Ice",
+        "young_type": "Glide",
+        "image_path": "Ginjirotchi"
+    },
+    {
+        "id": 119,
+        "name": "Rakkotchi",
+        "field": "Ice",
+        "young_type": "Glide",
+        "image_path": "Rakkotchi"
+    },
+    {
+        "id": 120,
+        "name": "Hoppentchi",
+        "field": "Ice",
+        "young_type": "Glide",
+        "image_path": "Hoppentchi"
+    },
+    {
+        "id": 121,
+        "name": "Ice Toddle Young",
+        "field": "Ice",
+        "young_type": "Toddle",
+        "image_path": "Ice_Toddle_Young"
+    },
+    {
+        "id": 122,
+        "name": "Lemmingtchi",
+        "field": "Ice",
+        "young_type": "Toddle",
+        "image_path": "Lemmingtchi"
+    },
+    {
+        "id": 123,
+        "name": "Moosetchi",
+        "field": "Ice",
+        "young_type": "Toddle",
+        "image_path": "Moosetchi"
+    },
+    {
+        "id": 124,
+        "name": "Raichotchi",
+        "field": "Ice",
+        "young_type": "Toddle",
+        "image_path": "Raichotchi"
+    },
+    {
+        "id": 125,
+        "name": "Yukiusatchi",
+        "field": "Ice",
+        "young_type": "Toddle",
+        "image_path": "Yukiusatchi"
+    },
+    {
+        "id": 126,
+        "name": "Ice Float Young",
+        "field": "Ice",
+        "young_type": "Float",
+        "image_path": "Ice_Float_Young"
+    },
+    {
+        "id": 127,
+        "name": "Nerinetchi",
+        "field": "Ice",
+        "young_type": "Float",
+        "image_path": "Nerinetchi"
+    },
+    {
+        "id": 128,
+        "name": "Dangouotchi",
+        "field": "Ice",
+        "young_type": "Float",
+        "image_path": "Dangouotchi"
+    },
+    {
+        "id": 129,
+        "name": "Yaytytchi",
+        "field": "Ice",
+        "young_type": "Float",
+        "image_path": "Yaytytchi"
+    },
+    {
+        "id": 130,
+        "name": "Yukiraratchi",
+        "field": "Ice",
+        "young_type": "Float",
+        "image_path": "Yukiraratchi"
+    },
+    {
+        "id": 131,
+        "name": "Mermarintchi",
+        "field": "Water",
+        "young_type": "Not Float",
+        "image_path": "Mermarintchi"
+    },
+    {
+        "id": 132,
+        "name": "Yayacorntchi",
+        "field": "Sky",
+        "young_type": "Not Rocky",
+        "image_path": "Yayacorntchi"
+    },
+    {
+        "id": 133,
+        "name": "Tatsutchi",
+        "field": "Forest",
+        "young_type": "Not Sprout",
+        "image_path": "Tatsutchi"
+    },
+    {
+        "id": 134,
+        "name": "Manapatchi",
+        "field": "Tropical",
+        "young_type": "Not Sprout",
+        "image_path": "Manapatchi"
+    },
+    {
+        "id": 135,
+        "name": "Hobohorntchi",
+        "field": "Ice",
+        "young_type": "Not Float",
+        "image_path": "Hobohorntchi"
     }
 ]

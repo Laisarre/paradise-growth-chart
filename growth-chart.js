@@ -464,7 +464,7 @@ class GrowthChartStandalone {
                 fieldIcon.onerror = () => this.handleIconError(fieldIcon);
                 fieldLine.appendChild(fieldIcon);
                 const fieldText = document.createElement('span');
-                fieldText.textContent = 'Field Cells';
+                fieldText.textContent = '4 Field Cells';
                 fieldLine.appendChild(fieldText);
                 kidRow.appendChild(fieldLine);
             }
